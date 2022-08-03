@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/murtazanaiyar/Desktop/Github%40MN/ML-FLow/examples/sklearn_elasticnet_wine/mlruns/0/5d1861ebd81844058c62613744067969/artifacts
+end_time: 1658596639029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5d1861ebd81844058c62613744067969
+run_uuid: 5d1861ebd81844058c62613744067969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658596637155
+status: 3
+tags: []
+user_id: murtazanaiyar
